@@ -468,6 +468,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
+- [English Speedreading](https://www.spreeder.com/) : Learn to SpeedRead and improve your overall reading English reading speed.
 
 
 ## When you get bored from CS related stuff
